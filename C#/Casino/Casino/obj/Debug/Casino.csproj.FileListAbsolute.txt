@@ -1,0 +1,6 @@
+c:\users\anastasia\documents\visual studio 2013\Projects\Casino\Casino\bin\Debug\Casino.exe.config
+c:\users\anastasia\documents\visual studio 2013\Projects\Casino\Casino\obj\Debug\Casino.csprojResolveAssemblyReference.cache
+c:\users\anastasia\documents\visual studio 2013\Projects\Casino\Casino\bin\Debug\Casino.exe
+c:\users\anastasia\documents\visual studio 2013\Projects\Casino\Casino\bin\Debug\Casino.pdb
+c:\users\anastasia\documents\visual studio 2013\Projects\Casino\Casino\obj\Debug\Casino.exe
+c:\users\anastasia\documents\visual studio 2013\Projects\Casino\Casino\obj\Debug\Casino.pdb
